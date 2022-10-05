@@ -1,8 +1,7 @@
 # ColorPicker
 HTML5, CSS, and JavaScript hex code color generator.
 
-## Link:
-<a href"#" target="_blank"> click here </a>
+## Link: [click here](https://sr-color-picker.netlify.app/)
 
 ## Built with:
 - HTML5
